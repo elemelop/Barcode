@@ -1,2 +1,2 @@
 # Barcode
-This is simple Barcode that is based on python
+This is very Simple Barcode that is made solely using Python!
