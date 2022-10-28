@@ -1,2 +1,2 @@
-# Barcode
-This is simple Barcode that is based on python
+# QR-Code
+This is a simple QR-Code that is based on python programming language!
